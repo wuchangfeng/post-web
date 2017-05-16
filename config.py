@@ -1,6 +1,6 @@
 #coding=utf8
 
-SQLALCHEMY_DATABASE_URI = 'sqlite:////tmp/test.db'
+SQLALCHEMY_DATABASE_URI = 'sqlite:///db.sqlite'
 
 AUTHOR = 'Rong'
 
